@@ -1,2 +1,2 @@
-Source code avaiable at:
+Source code available at:
 https://github.com/kwhat/jnativehook
